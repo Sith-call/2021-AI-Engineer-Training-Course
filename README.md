@@ -12,7 +12,7 @@ Weights : [Google Drive](https://drive.google.com/file/d/1Jy4jGshzCzajSByDK6k0YI
 
 ### Loss Chart
 
-![chart](https://user-images.githubusercontent.com/57928967/131074266-ea9d09ee-f283-417a-9316-7b3c233c232b.png)
+![cha](https://user-images.githubusercontent.com/57928967/131076694-0d0118f8-9e41-43b7-913d-08d9aca46905.png)
 
 ### Dection Image
 
