@@ -2,7 +2,7 @@
 
 ## Darknet & Yolov4
 
-Darknet : Deep learning framework
+Darknet : Neural networks framework
 
 Yolov4 : Object dection algorithm
 
