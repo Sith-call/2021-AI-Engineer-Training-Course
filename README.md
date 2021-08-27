@@ -1,5 +1,11 @@
 # 2021-AI-Engineer-Training-Course
 
+## Data Processing and aggregation by python
+
+파이썬을 이용해서 각기 다른 데이터의 이름, 크기를 맞춰주었습니다.
+ 
+opencv-python을 이용해서 데이터셋의 크기를 키웠습니다.
+
 ## Darknet & Yolov4
 
 Darknet : Deep learning framework
