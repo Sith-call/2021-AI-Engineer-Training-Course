@@ -6,7 +6,7 @@ Darknet : Deep learning framework
 
 Yolov4 : Object dection algorithm
 
-Dataset : [Kaggle](https://www.kaggle.com/choemarco/mouse-book)
+Dataset : [Kaggle](https://www.kaggle.com/choemarco/mouse-book) (labeled using labelImg)
 
 Weights : [Google Drive](https://drive.google.com/file/d/1Jy4jGshzCzajSByDK6k0YIDVVXi-z3lt/view?usp=sharing)
 
