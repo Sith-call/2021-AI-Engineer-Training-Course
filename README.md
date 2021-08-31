@@ -19,7 +19,7 @@ opencv-python을 이용해서 데이터의 크기를 수정하고 데이터셋�
 
 ## Review
 
-Review : [velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
+Review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
 ## Chart
 
