@@ -12,10 +12,10 @@ Weights : [Google Drive](https://drive.google.com/file/d/1Jy4jGshzCzajSByDK6k0YI
 
 ## Data Processing and aggregation by python
 
-파이썬을 이용해서 각기 다른 데이터의 이름, 크기를 맞춰주었습니다.
+파이썬을 이용해서 각기 다른 데이터의 이름을 맞춰주었습니다.
 이 코드를 통해서 서로 다른 양식의 데이터와 라벨링의 이름 포맷을 통일시킬 수 있습니다.(data_aggregation.py)
  
-opencv-python을 이용해서 데이터셋의 크기를 키웠습니다.(data_process.py)
+opencv-python을 이용해서 데이터의 크기를 수정하고 데이터셋의 크기를 키웠습니다.(data_process.py)
 
 ## Review
 
