@@ -21,11 +21,11 @@ opencv-python을 이용해서 데이터의 크기를 수정하고 데이터셋�
 
 Review : [velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
-### Chart
+## Chart
 
 ![chart (1)](https://user-images.githubusercontent.com/57928967/131431793-955a92bd-9a3d-418d-ba17-6c2a5d682dca.png)
 
-### Detection Image
+## Detection Image
 
 Images : [Google Drive](https://drive.google.com/drive/folders/1XEqk1SjYsCSnC7c5sWZmlYxlvC35jUlU?usp=sharing)
 
