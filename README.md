@@ -30,13 +30,13 @@ opencv-python을 이용해서 데이터셋의 크기를 키웠습니다.
 
 ### Chart
 
-![cha](https://user-images.githubusercontent.com/57928967/131076694-0d0118f8-9e41-43b7-913d-08d9aca46905.png)
+![chart (1)](https://user-images.githubusercontent.com/57928967/131431793-955a92bd-9a3d-418d-ba17-6c2a5d682dca.png)
 
 ### Dection Image
 
-![KakaoTalk_20210826_235308156](https://user-images.githubusercontent.com/57928967/131076509-914342f4-5d42-4e26-a232-4721793ace9d.png)
-![제목 없음](https://user-images.githubusercontent.com/57928967/131076559-3594e545-fb8e-4af5-991c-6756ed8db5e0.png)
-![제목 없음2](https://user-images.githubusercontent.com/57928967/131076582-4ba750db-eb38-4157-bd84-fa3e3c3e07b2.png)
+![KakaoTalk_20210826_235308156](https://user-images.githubusercontent.com/57928967/131431362-4f15d2fd-5bc7-46ee-8750-077fd5c01d86.png)
+![KakaoTalk_20210826_234708969](https://user-images.githubusercontent.com/57928967/131431390-a71f979a-7023-41be-9098-5333860cbd8b.png)
+![KakaoTalk_20210826_234651408](https://user-images.githubusercontent.com/57928967/131431419-d533c5f0-2a4d-4f2d-9347-44fb74f2dfb8.png)
 
 
 
