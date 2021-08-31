@@ -27,9 +27,6 @@ Review : [velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%E
 
 ### Detection Image
 
-![KakaoTalk_20210826_235308156](https://user-images.githubusercontent.com/57928967/131431362-4f15d2fd-5bc7-46ee-8750-077fd5c01d86.png)
-![KakaoTalk_20210826_234708969](https://user-images.githubusercontent.com/57928967/131431390-a71f979a-7023-41be-9098-5333860cbd8b.png)
-![KakaoTalk_20210826_234651408](https://user-images.githubusercontent.com/57928967/131431419-d533c5f0-2a4d-4f2d-9347-44fb74f2dfb8.png)
-
+Images : [Google Drive](https://drive.google.com/drive/folders/1XEqk1SjYsCSnC7c5sWZmlYxlvC35jUlU?usp=sharing)
 
 
