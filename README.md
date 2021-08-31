@@ -32,7 +32,7 @@ opencv-python을 이용해서 데이터셋의 크기를 키웠습니다.
 
 ![chart (1)](https://user-images.githubusercontent.com/57928967/131431793-955a92bd-9a3d-418d-ba17-6c2a5d682dca.png)
 
-### Dection Image
+### Detection Image
 
 ![KakaoTalk_20210826_235308156](https://user-images.githubusercontent.com/57928967/131431362-4f15d2fd-5bc7-46ee-8750-077fd5c01d86.png)
 ![KakaoTalk_20210826_234708969](https://user-images.githubusercontent.com/57928967/131431390-a71f979a-7023-41be-9098-5333860cbd8b.png)
