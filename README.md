@@ -10,7 +10,7 @@ Dataset : [Kaggle](https://www.kaggle.com/choemarco/mouse-book) (labeled using l
 
 Weights : [Google Drive](https://drive.google.com/file/d/1Jy4jGshzCzajSByDK6k0YIDVVXi-z3lt/view?usp=sharing)
 
-## Data Processing and aggregation by python
+## Data processing and aggregation by python
 
 파이썬을 이용해서 각기 다른 데이터의 이름을 맞춰주었습니다.
 이 코드를 통해서 서로 다른 양식의 데이터와 라벨링의 이름 포맷을 통일시킬 수 있습니다.(data_aggregation.py)
