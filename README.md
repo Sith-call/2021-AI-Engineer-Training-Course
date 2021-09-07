@@ -22,7 +22,7 @@ I resized images and made dataset bigger by using opencv-python.(data_process.py
 
 I learned an overview of AI.
 
-I implemented a small neural network by coding myself.
+I implemented a small neural network by python myself.
 
 I did object detection using MS COCO dataset with Yolov4 and Darkent.
 
