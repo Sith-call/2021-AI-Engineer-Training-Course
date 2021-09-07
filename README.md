@@ -32,7 +32,7 @@ I used Colab Pro for training  CNN.
 
 Detailed review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
-## Chart
+## Chart of Training Custom Dataset
 
 ![chart (1)](https://user-images.githubusercontent.com/57928967/131431793-955a92bd-9a3d-418d-ba17-6c2a5d682dca.png)
 
