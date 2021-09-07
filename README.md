@@ -28,6 +28,8 @@ MS COCO Dataset을 통해서 object detection을 해보았습니다.
 
 Custom Dataset을 만들어 봄으로써 Deep learning dataset에 대한 insight를 얻었습니다.
 
+인공지능 학습은 colab pro를 통해서 수행했습니다.
+
 Review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
 ## Chart
