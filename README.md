@@ -26,7 +26,7 @@ opencv-python을 이용해서 데이터의 크기를 수정하고 데이터셋�
 
 MS COCO Dataset을 통해서 object detection을 해보았습니다.
 
-Custom Dataset을 만들어 봄으로써 딥러닝에 대한 insight를 얻었습니다.
+Custom Dataset을 만들어 봄으로써 Deep learning dataset에 대한 insight를 얻었습니다.
 
 Review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
