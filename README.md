@@ -30,7 +30,7 @@ I got an insight of Deep Learning dataset by making custom dataset.
 
 I used Colab Pro for training my AI CNN.
 
-Review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
+Detailed review : [Velog](https://velog.io/@chldntjr0425/AI-Engineer-%EC%96%91%EC%84%B1%EA%B3%BC%EC%A0%95-%ED%9B%84%EA%B8%B0-hmmn0tmk)
 
 ## Chart
 
